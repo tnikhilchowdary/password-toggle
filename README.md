@@ -6,6 +6,7 @@ This React app allows users to toggle the visibility of a password input field.
 ![App Screenshot](assets/screenshot.png)
 
 
+
 ## Features
 - Toggle password visibility
 - React functional components
